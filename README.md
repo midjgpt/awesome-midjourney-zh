@@ -47,6 +47,6 @@ MidJourney（[官网](https://www.midjourney.com/)）是一款AI制图工具，�
 
 # 欢迎➕个人微信交流
 
-微信：![wehchat.jpg](./img/wehchat.jpeg)
+微信：![wehchat](img/wehchat.jpeg)
 
 
