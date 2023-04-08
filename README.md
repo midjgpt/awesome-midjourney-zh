@@ -4,7 +4,7 @@ MidJourney（[官网](https://www.midjourney.com/)）是一款AI制图工具，�
 
 本项目整理了使用Midjourney的关键词、Prompt（来自自己尝试或者Midj官网的分享）
 
-本指北[地址]()，会不定期更新，也欢迎大家补充
+本指北[地址](https://github.com/midjgpt/awesome-midjourney-zh)，会不定期更新，也欢迎大家补充
 
 # 关键词
 
