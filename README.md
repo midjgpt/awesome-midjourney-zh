@@ -25,6 +25,7 @@ MidJourney（[官网](https://www.midjourney.com/)）是一款AI制图工具，�
 |  sculpture|水墨画  | 风格 |  
 | Blockprint |印刷版画| 风格 |   
 | Tradition Chinese Ink Painting style | 风格 |  国风 |
+
 更多可以参见[keywords](./keywords/midjourney_keywords.md)目录
 
 ## 几个关键词常见问法说明
