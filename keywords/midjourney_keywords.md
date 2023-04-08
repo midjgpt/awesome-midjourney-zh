@@ -317,29 +317,28 @@
 
 
 ### 常用关键词
-- Future city（未来城市）
-- Surreal landscape（超现实风景）
-- Cyberpunk city（赛博朋克城市）
-- Neon lights（霓虹灯光）
-- Fantasy castle（幻想城堡）
-- Sci-fi spaceship（科幻飞船）
-- Cosmic voyage（星际旅行）
-- Underwater world（水下世界）
-- Steampunk city（蒸汽朋克城市）
-- Gothic cathedral（哥特式大教堂）
-- Magic forest（魔法森林）
-- Dark castle（黑暗城堡）
-- Futuristic car（未来汽车）
-- Anime girl（动漫女孩）
-- Abstract art（抽象艺术）
-- Surreal portrait（超现实肖像）
-- Alien planet（外星行星）
-- Retro-futuristic city（复古未来城市）
-- Enchanted forest（魔法森林）
-- Cyberpunk girl（赛博朋克女孩）
-- Apocalyptic world（启示录世界）
-- Fantasy dragon（幻想巨龙）
-- Steampunk robot（蒸汽朋克机器人）
-- Magical city（魔法城市）
-- Galactic nebula（星际星云）
+- 未来城市 Future city  
+- 超现实风景 Surreal landscape 
+- 赛博朋克城市 Cyberpunk city  
+- 霓虹灯光  Neon lights 
+- 幻想城堡 Fantasy castle  
+- 科幻飞船 Sci-fi spaceship
+- 星际旅行 Cosmic voyage 
+- 水下世界 Underwater world 
+- 蒸汽朋克城市 Steampunk city 
+- 哥特式大教堂 Gothic cathedral 
+- 黑暗城堡 Dark castle 
+- 未来汽车 Futuristic car 
+- Anime girl 动漫女孩 
+- 抽象艺术 Abstract art 
+- 超现实肖像 Surreal portrait 
+- 外星行星 Alien planet 
+- 复古未来城市 Retro-futuristic city 
+- 魔法森林 Enchanted forest 
+- 赛博朋克女孩 Cyberpunk girl 
+- 启示录世界 Apocalyptic world 
+- 幻想巨龙 Fantasy dragon 
+- 蒸汽朋克机器人 Steampunk robot 
+- 魔法城市 Magical city 
+- 星际星云 Galactic nebula 
 
