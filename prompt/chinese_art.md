@@ -52,3 +52,11 @@
 <div align=center>
 <img src="../img/chinese_art/古典咖啡杯.png" width="200"/> 
 </div>
+
+
+#### 雾，中国山水画，水墨渐变，柔和细腻的线条，变化和分层的形状，水墨渲染，泼墨技术，纹理笔画，点画技术，焦距10 - 24mm，光圈f/ 8 - f/ 11，快门速度1/ 30s - 1/ 125s, ISO 100 - 400，日光白平衡，对焦模式单自动对焦，测光模式矩阵，镜头稳定开启
+> Fog, , Chinese Landscape Painting, Ink gradients, Soft and delicate lines, Varied and layered shapes, Ink wash rendering, Splashing ink technique, Texture strokes, Dotting technique, Focal Length 10 - 24mm, Aperture f/ 8 - f/ 11, Shutter Speed 1/ 30s - 1/ 125s, ISO 100 - 400, White Balance Daylight, Focus Mode Single Autofocus, Metering Mode Matrix, Lens Stabilization On --v 5 --ar 4:7 --s 750
+
+<div align=center>
+<img src="../img/chinese_art/frog_ink.png" width="200"/> 
+</div>
